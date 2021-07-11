@@ -1,3 +1,7 @@
+/*
+ * The AccManager2 class accesses data fields of the Account class indirectly,
+ * using the getter and setter methods for each data field.
+ */
 public class AccManager2 {
 	public void fillAccountData(Account a1) {
 		a1.setAccNo("004701");

@@ -1,3 +1,7 @@
+/*
+ * The Account class has fields with the default scope of package-private,
+ * as well as public getter/setter methods for the fields.
+ */
 public class Account {
 	String accNo;
 	String name;

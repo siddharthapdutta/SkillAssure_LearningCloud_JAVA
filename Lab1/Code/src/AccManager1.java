@@ -1,3 +1,7 @@
+/*
+ * The AccManager1 class accesses data fields of the Account class directly,
+ * using the dot operator.
+ */
 public class AccManager1 {
 	public void fillAccountData(Account a1) {
 		a1.accNo = "004701";
